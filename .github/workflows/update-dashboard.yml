@@ -1,0 +1,76 @@
+name: 🌙 Actualizar Dashboard (madrugada)
+
+# ─────────────────────────────────────────────────────────────
+# Disparadores:
+#   • Cron: 04:30 UTC todos los días (06:30 hora España verano)
+#   • Manual: desde pestaña Actions → "Run workflow"
+# ─────────────────────────────────────────────────────────────
+on:
+  schedule:
+    - cron: "30 4 * * *"   # 04:30 UTC = 06:30 CEST / 05:30 CET
+  workflow_dispatch:         # permite lanzarlo manualmente
+
+permissions:
+  contents: write            # necesario para hacer git push
+
+jobs:
+  analizar-y-publicar:
+    name: Análisis técnico + Deploy
+    runs-on: ubuntu-latest
+    timeout-minutes: 60      # los ~107 tickers pueden tardar ~20-30 min
+
+    steps:
+      # ── 1. Clonar repo ────────────────────────────────────
+      - name: Checkout repositorio
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── 2. Python ────────────────────────────────────────
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Instalar dependencias Python
+        run: pip install -r scripts/requirements.txt
+
+      # ── 3. Ejecutar análisis → genera public/data/dashboard.json
+      - name: Ejecutar análisis técnico
+        run: python scripts/generate_dashboard.py
+        timeout-minutes: 45
+
+      # ── 4. Build React/Vite ───────────────────────────────
+      - name: Instalar dependencias Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: npm install
+        run: npm ci
+
+      - name: npm run build
+        run: npm run build
+
+      # ── 5. Commitear el JSON actualizado ──────────────────
+      - name: Commit JSON actualizado
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/dashboard.json
+          git diff --staged --quiet || git commit -m "📊 Dashboard actualizado $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+
+      # ── 6. Deploy a GitHub Pages ──────────────────────────
+      - name: Deploy a GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir:  ./dist
+          user_name:    "github-actions[bot]"
+          user_email:   "github-actions[bot]@users.noreply.github.com"
+          commit_message: "🚀 Deploy dashboard $(date -u '+%Y-%m-%d %H:%M UTC')"
+          force_orphan: true   # mantiene gh-pages limpio (sin historial de builds)
