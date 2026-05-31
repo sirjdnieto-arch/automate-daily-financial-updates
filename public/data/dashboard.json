@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T14:30:55.787658+00:00",
+  "generated_at": "2026-05-31T14:40:16.069736+00:00",
   "tickers_analyzed": 111,
   "results": [
     {
@@ -641,11 +641,11 @@
       "PVI": "🔴 —",
       "Bitman": "IMPULSO ALCISTA (ciclo 33v / fresco 5v) 📈",
       "Div": "🟠 BAJISTA ctx (21v)",
-      "BBWP": "⚪ ↑ 28.6%",
+      "BBWP": "⚪ ↑ 28.2%",
       "Velas⏱": "M:— Az:— Me:— B:5v",
       "Score": "1/5",
       "Señal": "🔴 VENTA",
-      "Razones": "MACD 🔴 negativo | Azul K 🔴 negativo | Media K 🔴 fuera | BBWP 🟢 cargando 29%↑ | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman 🟢 impulso alcista (ciclo 33v / fresco 5v) | BBWP tuvo compresión hace 2v — energía acumulada | 🔴 Precio bajo EMA200 — contexto bajista"
+      "Razones": "MACD 🔴 negativo | Azul K 🔴 negativo | Media K 🔴 fuera | BBWP 🟢 cargando 28%↑ | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman 🟢 impulso alcista (ciclo 33v / fresco 5v) | BBWP tuvo compresión hace 2v — energía acumulada | 🔴 Precio bajo EMA200 — contexto bajista"
     },
     {
       "Ticker": "BZUN",
