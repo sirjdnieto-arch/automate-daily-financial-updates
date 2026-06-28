@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T07:36:14.287986+00:00",
+  "generated_at": "2026-06-28T08:03:47.305298+00:00",
   "tickers_analyzed": 111,
   "results": [
     {
@@ -756,16 +756,16 @@
       "Ticker": "BTC-USD",
       "Tendencia": "MD25:🔴 E200:🔴",
       "RSI": "🔴 0v ➖",
-      "MACD": "🔴 ➖ -0.01 Sep",
-      "Koncorde": "🔴🔴 4v",
+      "MACD": "🔴 ➖ 0.05 Jun",
+      "Koncorde": "🔴🔴 5v",
       "PVI": "🔴 —",
-      "Bitman": "IMPULSO ALCISTA (ciclo 60v / fresco 2v) 📈",
-      "Div": "🟠 BAJISTA ctx (48v)",
-      "BBWP": "⚪ ↑ 71.0%",
-      "Velas⏱": "M:— Az:— Me:— B:2v",
+      "Bitman": "IMPULSO ALCISTA (ciclo 61v / fresco 3v) 📈",
+      "Div": "🟠 BAJISTA ctx (49v)",
+      "BBWP": "⚪ → 69.0%",
+      "Velas⏱": "M:— Az:— Me:— B:3v",
       "Score": "1/5",
       "Señal": "🔴 VENTA",
-      "Razones": "MACD 🔴 negativo | Azul K 🔴 negativo | Media K 🔴 fuera | BBWP 🟢 alto 71% (compresión hace 4v) | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman 🟢 impulso alcista (ciclo 60v / fresco 2v) | BBWP tuvo compresión hace 4v — energía acumulada | 🔴 Precio bajo EMA200 — contexto bajista"
+      "Razones": "MACD 🔴 negativo | Azul K 🔴 negativo | Media K 🔴 fuera | BBWP 🟢 alto 69% (compresión hace 5v) | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman 🟢 impulso alcista (ciclo 61v / fresco 3v) | BBWP tuvo compresión hace 5v — energía acumulada | 🔴 Precio bajo EMA200 — contexto bajista"
     },
     {
       "Ticker": "COST",
@@ -861,16 +861,16 @@
       "Ticker": "ETH-USD",
       "Tendencia": "MD25:🔴 E200:🔴",
       "RSI": "🔴 0v ➖",
-      "MACD": "🔴 ➖ -0.06 Sep",
-      "Koncorde": "🔴🔴 3v",
+      "MACD": "🔴 ➖ -0.00 Sep",
+      "Koncorde": "🔴🔴 4v",
       "PVI": "🔴 —",
-      "Bitman": "INDEFINICIÓN (ciclo 41v / fresco —) ⬜",
-      "Div": "🟠 BAJISTA ctx (48v)",
-      "BBWP": "⚪ ↑ 70.2%",
+      "Bitman": "INDEFINICIÓN (ciclo 42v / fresco —) ⬜",
+      "Div": "🟠 BAJISTA ctx (49v)",
+      "BBWP": "⚪ ↑ 70.6%",
       "Velas⏱": "M:— Az:— Me:— B:—",
       "Score": "1/5",
       "Señal": "🔴 VENTA",
-      "Razones": "MACD 🔴 negativo | Azul K 🔴 negativo | Media K 🔴 fuera | BBWP 🟢 alto 70% (compresión hace 4v) | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman ⚪ indefinición (41v) | BBWP tuvo compresión hace 4v — energía acumulada | 🔴 Precio bajo EMA200 — contexto bajista"
+      "Razones": "MACD 🔴 negativo | Azul K 🔴 negativo | Media K 🔴 fuera | BBWP 🟢 alto 71% (compresión hace 5v) | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman ⚪ indefinición (42v) | BBWP tuvo compresión hace 5v — energía acumulada | 🔴 Precio bajo EMA200 — contexto bajista"
     },
     {
       "Ticker": "FUTU",
@@ -891,16 +891,16 @@
       "Ticker": "GC=F",
       "Tendencia": "MD25:🔴 E200:🔴",
       "RSI": "🟢 2v ➖",
-      "MACD": "🔴 ➖ 0.29 Jun",
+      "MACD": "🔴 ➖ 0.38 Jun",
       "Koncorde": "🔴🟢 1v",
       "PVI": "🔴 —",
       "Bitman": "IMPULSO BAJISTA (ciclo 7v / fresco —) 📉",
       "Div": "⚪ bajista caduc (190v)",
-      "BBWP": "⚪ → 78.2%",
+      "BBWP": "⚪ → 77.0%",
       "Velas⏱": "M:— Az:— Me:1v B:—",
       "Score": "2/5",
       "Señal": "🔴 VENTA",
-      "Razones": "MACD 🔴 negativo | Azul K 🔴 negativo | Media K 🟢 en área (1v) | BBWP 🟢 alto 78% (compresión hace 15v) | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman 🔴 impulso bajista (7v) | BBWP tuvo compresión hace 15v — energía acumulada | 🔴 Precio bajo EMA200 — contexto bajista"
+      "Razones": "MACD 🔴 negativo | Azul K 🔴 negativo | Media K 🟢 en área (1v) | BBWP 🟢 alto 77% (compresión hace 15v) | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman 🔴 impulso bajista (7v) | BBWP tuvo compresión hace 15v — energía acumulada | 🔴 Precio bajo EMA200 — contexto bajista"
     },
     {
       "Ticker": "GOOG",
@@ -1161,16 +1161,16 @@
       "Ticker": "SI=F",
       "Tendencia": "MD25:🔴 E200:🔴",
       "RSI": "🟢 1v ➖",
-      "MACD": "🔴 ➖ 0.07 Jun",
-      "Koncorde": "🔴🔴 5v",
+      "MACD": "🔴 ➖ 0.11 Jun",
+      "Koncorde": "🔴🟢 1v",
       "PVI": "🔴 —",
       "Bitman": "IMPULSO BAJISTA (ciclo 8v / fresco —) 📉",
       "Div": "⚪ bajista caduc (118v)",
-      "BBWP": "🔴 ↑ 82.1%",
-      "Velas⏱": "M:— Az:— Me:— B:—",
-      "Score": "1/5",
+      "BBWP": "🔴 ↑ 80.6%",
+      "Velas⏱": "M:— Az:— Me:1v B:—",
+      "Score": "2/5",
       "Señal": "🔴 VENTA",
-      "Razones": "MACD 🔴 negativo | Azul K 🔴 negativo | Media K 🔴 fuera | BBWP 🟢 alto 82% (compresión hace 15v) | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman 🔴 impulso bajista (8v) | BBWP tuvo compresión hace 15v — energía acumulada | 🔴 Precio bajo EMA200 — contexto bajista"
+      "Razones": "MACD 🔴 negativo | Azul K 🔴 negativo | Media K 🟢 en área (1v) | BBWP 🟢 alto 81% (compresión hace 15v) | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman 🔴 impulso bajista (8v) | BBWP tuvo compresión hace 15v — energía acumulada | 🔴 Precio bajo EMA200 — contexto bajista"
     },
     {
       "Ticker": "SIE.DE",
@@ -1311,16 +1311,16 @@
       "Ticker": "XRP-USD",
       "Tendencia": "MD25:🔴 E200:🔴",
       "RSI": "🔴 0v ➖",
-      "MACD": "🔴 ➖ 0.08 Jun",
-      "Koncorde": "🔴🔴 4v",
+      "MACD": "🔴 ➖ 0.12 Jun",
+      "Koncorde": "🔴🔴 5v",
       "PVI": "🔴 —",
-      "Bitman": "IMPULSO ALCISTA (ciclo 49v / fresco 3v) 📈",
-      "Div": "⚪ alcista caduc (84v)",
-      "BBWP": "🔴 ↑ 81.3%",
-      "Velas⏱": "M:— Az:— Me:— B:3v",
+      "Bitman": "IMPULSO ALCISTA (ciclo 50v / fresco 4v) 📈",
+      "Div": "🟢 ALCISTA FRESCA (3v)",
+      "BBWP": "⚪ → 78.6%",
+      "Velas⏱": "M:— Az:— Me:— B:4v",
       "Score": "1/5",
       "Señal": "🔴 VENTA",
-      "Razones": "MACD 🔴 negativo | Azul K 🔴 negativo | Media K 🔴 fuera | BBWP 🟢 alto 81% (compresión hace 26v) | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman 🟢 impulso alcista (ciclo 49v / fresco 3v) | BBWP tuvo compresión hace 26v — energía acumulada | 🔴 Precio bajo EMA200 — contexto bajista"
+      "Razones": "MACD 🔴 negativo | Azul K 🔴 negativo | Media K 🔴 fuera | BBWP 🟢 alto 79% (compresión hace 27v) | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman 🟢 impulso alcista (ciclo 50v / fresco 4v) | BBWP tuvo compresión hace 27v — energía acumulada | 🟢 Div alcista RSI FRESCA (3v) | 🔴 Precio bajo EMA200 — contexto bajista"
     },
     {
       "Ticker": "ACS.MC",
