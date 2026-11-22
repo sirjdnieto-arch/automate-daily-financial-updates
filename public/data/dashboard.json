@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T12:55:20.963196+00:00",
+  "generated_at": "2026-11-22T12:47:12.297846+00:00",
   "tickers_analyzed": 110,
   "results": [
     {
@@ -33,6 +33,21 @@
       "Razones": "MACD 🔴 negativo | Azul K ⚪ positivo plano | Media K 🟢 en área (1v) | BBWP 🟢 alto 65% (compresión hace 8v) | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman ⚪ indefinición (66v) | BBWP tuvo compresión hace 8v — energía acumulada | 🟢 Div alcista RSI válida (14v) | 🔴 Precio bajo EMA200 — contexto bajista | ⚠️ Verde K negativa + Azul K positivo — señal independiente potente"
     },
     {
+      "Ticker": "BTC-USD",
+      "Tendencia": "MD25:🔴 E200:🔴",
+      "RSI": "🔴 0v ➖",
+      "MACD": "🔴 ➖ 0.29 Jun",
+      "Koncorde": "🟢🟢 2v",
+      "PVI": "🔴 —",
+      "Bitman": "IMPULSO ALCISTA (ciclo 96v / fresco 13v) 📈",
+      "Div": "🟠 BAJISTA ctx (49v)",
+      "BBWP": "🔴 → 94.0%",
+      "Velas⏱": "M:— Az:2v Me:2v B:13v",
+      "Score": "K!",
+      "Señal": "⚠️ ATENCIÓN KONKORDE",
+      "Razones": "MACD 🔴 negativo | Azul K 🟢 positivo↑ (2v) | Media K 🟢 en área (2v) | BBWP 🟢 alto 94% (compresión hace 25v) | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman 🟢 impulso alcista (ciclo 96v / fresco 13v) | ⚡ Azul pendiente fuerte (z=4.5) — movimiento violento probable | BBWP tuvo compresión hace 25v — energía acumulada | 🔴 Precio bajo EMA200 — contexto bajista | ⚠️ Verde K negativa + Azul K positivo — señal independiente potente"
+    },
+    {
       "Ticker": "CAT",
       "Tendencia": "MD25:🔴 E200:🔴",
       "RSI": "🟢 10v ➖",
@@ -61,6 +76,21 @@
       "Score": "K!",
       "Señal": "⚠️ ATENCIÓN KONKORDE",
       "Razones": "MACD 🔴 negativo | Azul K ⚪ positivo plano | Media K 🔴 fuera | BBWP ⚪ zona media 60% | PVI 🔴 bajo EMA25 | 🟠 precio en zona soporte MCG25/EMA200 | Bitman 🔴 retroceso bajista (10v) | BBWP tuvo compresión hace 2v — energía acumulada | ⚠️ Verde K negativa + Azul K positivo — señal independiente potente"
+    },
+    {
+      "Ticker": "ETH-USD",
+      "Tendencia": "MD25:🔴 E200:🔴",
+      "RSI": "🔴 0v ➖",
+      "MACD": "🔴 ➖ 0.35 Jun",
+      "Koncorde": "🟢🟢 3v",
+      "PVI": "🔴 —",
+      "Bitman": "IMPULSO BAJISTA (ciclo 13v / fresco —) 📉",
+      "Div": "⚪ bajista caduc (119v)",
+      "BBWP": "🔴 ↓ 89.7%",
+      "Velas⏱": "M:— Az:2v Me:3v B:—",
+      "Score": "K!",
+      "Señal": "⚠️ ATENCIÓN KONKORDE",
+      "Razones": "MACD 🔴 negativo | Azul K 🟢 positivo↑ (2v) | Media K 🟢 en área (3v) | BBWP 🟢 alto 90% (compresión hace 29v) | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman 🔴 impulso bajista (13v) | ⚡ Azul pendiente fuerte (z=2.0) — movimiento violento probable | BBWP tuvo compresión hace 29v — energía acumulada | 🔴 Precio bajo EMA200 — contexto bajista | ⚠️ Verde K negativa + Azul K positivo — señal independiente potente"
     },
     {
       "Ticker": "IFX.DE",
@@ -245,17 +275,17 @@
     {
       "Ticker": "XRP-USD",
       "Tendencia": "MD25:🔴 E200:🔴",
-      "RSI": "🟢 5v ➖",
-      "MACD": "🔴 ➖ 0.06 Jun",
-      "Koncorde": "🟢🟢 7v",
+      "RSI": "🟢 6v ➖",
+      "MACD": "🔴 ➖ 0.18 Jun",
+      "Koncorde": "🟢🟢 8v",
       "PVI": "🔴 —",
-      "Bitman": "IMPULSO BAJISTA (ciclo 18v / fresco —) 📉",
-      "Div": "⚪ bajista caduc (68v)",
-      "BBWP": "🔴 ↓ 84.9%",
-      "Velas⏱": "M:— Az:— Me:7v B:—",
+      "Bitman": "IMPULSO BAJISTA (ciclo 19v / fresco —) 📉",
+      "Div": "⚪ bajista caduc (69v)",
+      "BBWP": "🔴 ↓ 82.9%",
+      "Velas⏱": "M:— Az:2v Me:8v B:—",
       "Score": "K!",
       "Señal": "⚠️ ATENCIÓN KONKORDE",
-      "Razones": "MACD 🔴 negativo | Azul K ⚪ positivo plano | Media K 🟢 en área (7v) | BBWP 🟢 alto 85% (compresión hace 24v) | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman 🔴 impulso bajista (18v) | BBWP tuvo compresión hace 24v — energía acumulada | 🔴 Precio bajo EMA200 — contexto bajista | ⚠️ Verde K negativa + Azul K positivo — señal independiente potente"
+      "Razones": "MACD 🔴 negativo | Azul K 🟢 positivo↑ (2v) | Media K 🟢 en área (8v) | BBWP 🟢 alto 83% (compresión hace 25v) | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman 🔴 impulso bajista (19v) | BBWP tuvo compresión hace 25v — energía acumulada | 🔴 Precio bajo EMA200 — contexto bajista | ⚠️ Verde K negativa + Azul K positivo — señal independiente potente"
     },
     {
       "Ticker": "COST",
@@ -558,21 +588,6 @@
       "Razones": "MACD 🔴 negativo | Azul K 🔴 negativo | Media K 🔴 fuera | BBWP 🟢 alto 87% (compresión hace 13v) | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman 🔴 impulso bajista (9v) | BBWP tuvo compresión hace 13v — energía acumulada | 🔴 Precio bajo EMA200 — contexto bajista"
     },
     {
-      "Ticker": "BTC-USD",
-      "Tendencia": "MD25:🔴 E200:🔴",
-      "RSI": "🔴 0v ➖",
-      "MACD": "🔴 ➖ 0.04 Jun",
-      "Koncorde": "🔴🔴 4v",
-      "PVI": "🔴 —",
-      "Bitman": "IMPULSO ALCISTA (ciclo 95v / fresco 12v) 📈",
-      "Div": "🟠 BAJISTA ctx (48v)",
-      "BBWP": "🔴 → 97.6%",
-      "Velas⏱": "M:— Az:— Me:— B:12v",
-      "Score": "1/5",
-      "Señal": "🔴 VENTA",
-      "Razones": "MACD 🔴 negativo | Azul K 🔴 negativo | Media K 🔴 fuera | BBWP 🟢 alto 98% (compresión hace 24v) | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman 🟢 impulso alcista (ciclo 95v / fresco 12v) | BBWP tuvo compresión hace 24v — energía acumulada | 🔴 Precio bajo EMA200 — contexto bajista"
-    },
-    {
       "Ticker": "BZUN",
       "Tendencia": "MD25:🔴 E200:🔴",
       "RSI": "🔴 0v ➖",
@@ -721,21 +736,6 @@
       "Score": "0/5",
       "Señal": "🔴 VENTA",
       "Razones": "MACD 🔴 negativo | Azul K 🔴 negativo | Media K 🔴 fuera | BBWP ⚪ zona media 56% | PVI ⚪ sobre EMA25 decelerando | 🟠 precio en zona soporte MCG25/EMA200 | Bitman 🔴 retroceso bajista (2v) | BBWP tuvo compresión hace 17v — energía acumulada | Div alcista RSI contexto (49v) | 🔴 Precio bajo EMA200 — contexto bajista"
-    },
-    {
-      "Ticker": "ETH-USD",
-      "Tendencia": "MD25:🔴 E200:🔴",
-      "RSI": "🔴 0v ➖",
-      "MACD": "🔴 ➖ 0.15 Jun",
-      "Koncorde": "🔴🟢 2v",
-      "PVI": "🔴 —",
-      "Bitman": "IMPULSO BAJISTA (ciclo 12v / fresco —) 📉",
-      "Div": "⚪ bajista caduc (118v)",
-      "BBWP": "🔴 → 92.9%",
-      "Velas⏱": "M:— Az:— Me:2v B:—",
-      "Score": "2/5",
-      "Señal": "🔴 VENTA",
-      "Razones": "MACD 🔴 negativo | Azul K 🔴 negativo | Media K 🟢 en área (2v) | BBWP 🟢 alto 93% (compresión hace 28v) | PVI 🔴 bajo EMA25 | 🔴 bajo EMA200 — precaución | Bitman 🔴 impulso bajista (12v) | BBWP tuvo compresión hace 28v — energía acumulada | 🔴 Precio bajo EMA200 — contexto bajista"
     },
     {
       "Ticker": "FER.MC",
@@ -1326,7 +1326,7 @@
       "Ticker": "SI=F",
       "Tendencia": "MD25:🔴 E200:🔴",
       "RSI": "🟢 4v ➖",
-      "MACD": "🔴 ➖ -0.81 Sep",
+      "MACD": "🔴 ➖ -0.80 Sep",
       "Koncorde": "🔴🔴 6v",
       "PVI": "🔴 —",
       "Bitman": "IMPULSO BAJISTA (ciclo 60v / fresco —) 📉",
